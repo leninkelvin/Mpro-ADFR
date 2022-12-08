@@ -5,3 +5,5 @@ Título: Identificación de inhibidores enzimáticos contra el coronavirus de 20
 Responsable Técnico: GERARDO SANTOS LOPEZ Institución: INSTITUTO MEXICANO DEL SEGURO SOCIAL
 Colaboradores: LENIN DOMÍNGUEZ RAMÍREZ Institución: UNIVERSIDAD DE LAS AMERICAS PUEBLA
 
+# Introducción:
+
