@@ -1,0 +1,113 @@
+.
+├── ARBOL_DE_ARCHIVOS
+├── Mpro-dp.py
+├── Mpro-dp.pyc
+├── Mpro-nc.py
+├── Mpro-survey.py
+├── lig
+│   ├── 93J.pdb
+│   ├── ALZE.pdb
+│   ├── BQEL.pdb
+│   ├── BRW9.pdb
+│   ├── BS7W.pdb
+│   ├── CLU.pdb
+│   ├── CRQN.pdb
+│   ├── CSO.pdb
+│   ├── FUA.pdb
+│   ├── QCP.pdb
+│   ├── RMZ.pdb
+│   ├── RNW.pdb
+│   ├── RQH.pdb
+│   ├── RT2.pdb
+│   ├── original
+│   │   ├── 7A1U.pdb
+│   │   ├── 7AF0.pdb
+│   │   ├── 7AGA.pdb
+│   │   ├── 7AMJ.pdb
+│   │   ├── 7ANS.pdb
+│   │   ├── 7AOL.pdb
+│   │   ├── 7AP6.pdb
+│   │   ├── 7APH.pdb
+│   │   ├── 7AQI.pdb
+│   │   ├── 7AWR.pdb
+│   │   ├── 7AWU.pdb
+│   │   ├── 7AWW.pdb
+│   │   ├── 7AXM.pdb
+│   │   ├── 7AXO.pdb
+│   │   └── pdbqt
+│   │       ├── 7A1U.pdbqt
+│   │       ├── 7AF0.pdbqt
+│   │       ├── 7AGA.pdbqt
+│   │       ├── 7AMJ.pdbqt
+│   │       ├── 7ANS.pdbqt
+│   │       ├── 7AOL.pdbqt
+│   │       ├── 7AP6.pdbqt
+│   │       ├── 7APH.pdbqt
+│   │       ├── 7AQI.pdbqt
+│   │       ├── 7AWR.pdbqt
+│   │       ├── 7AWU.pdbqt
+│   │       ├── 7AWW.pdbqt
+│   │       ├── 7AXM.pdbqt
+│   │       └── 7AXO.pdbqt
+│   └── pdbqt
+│       ├── 93J.pdbqt
+│       ├── ALZE.pdbqt
+│       ├── BQEL.pdbqt
+│       ├── BRW9.pdbqt
+│       ├── BS7W.pdbqt
+│       ├── CLU.pdbqt
+│       ├── CRQN.pdbqt
+│       ├── CSO.pdbqt
+│       ├── FUA.pdbqt
+│       ├── QCP.pdbqt
+│       ├── RMZ.pdbqt
+│       ├── RNW.pdbqt
+│       ├── RQH.pdbqt
+│       └── RT2.pdbqt
+└── rec
+    ├── 7A1U.pdb
+    ├── 7AF0.pdb
+    ├── 7AGA.pdb
+    ├── 7AMJ.pdb
+    ├── 7ANS.pdb
+    ├── 7AOL.pdb
+    ├── 7AP6.pdb
+    ├── 7APH.pdb
+    ├── 7AQI.pdb
+    ├── 7AWR.pdb
+    ├── 7AWU.pdb
+    ├── 7AWW.pdb
+    ├── 7AXM.pdb
+    ├── 7AXO.pdb
+    ├── pdbqt
+    │   ├── 7A1U.pdbqt
+    │   ├── 7AF0.pdbqt
+    │   ├── 7AGA.pdbqt
+    │   ├── 7AMJ.pdbqt
+    │   ├── 7ANS.pdbqt
+    │   ├── 7AOL.pdbqt
+    │   ├── 7AP6.pdbqt
+    │   ├── 7APH.pdbqt
+    │   ├── 7AQI.pdbqt
+    │   ├── 7AWR.pdbqt
+    │   ├── 7AWU.pdbqt
+    │   ├── 7AWW.pdbqt
+    │   ├── 7AXM.pdbqt
+    │   └── 7AXO.pdbqt
+    └── trg
+        ├── 7A1Ur.trg
+        ├── 7AF0r.trg
+        ├── 7AGAr.trg
+        ├── 7AMJr.trg
+        ├── 7ANSr.trg
+        ├── 7AOLr.trg
+        ├── 7AP6r.trg
+        ├── 7APHr.trg
+        ├── 7AQIr.trg
+        ├── 7AWRr.trg
+        ├── 7AWUr.trg
+        ├── 7AWWr.trg
+        ├── 7AXMr.trg
+        └── 7AXOr.trg
+
+7 directories, 103 files
