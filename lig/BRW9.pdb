@@ -1,0 +1,61 @@
+HETATM    1  C1 BR9W A 504       6.851  33.503  -1.418  0.69 24.10           C
+HETATM    2  C2 BR9W A 504       7.616  32.439  -2.191  0.69 23.90           C
+HETATM    3  C3 BR9W A 504       7.607  31.055  -1.621  0.69 22.83           C
+HETATM    4  C4 BR9W A 504       6.356  30.585  -1.019  0.69 23.38           C
+HETATM    5  C5 BR9W A 504       5.344  31.551  -0.719  0.69 23.05           C
+HETATM    6  C6 BR9W A 504       5.505  33.021  -0.978  0.69 24.09           C
+HETATM    7  C7 BR9W A 504       4.153  31.021  -0.131  0.69 23.17           C
+HETATM    8  C8 BR9W A 504       3.949  29.728   0.125  0.69 23.52           C
+HETATM    9  C9 BR9W A 504       2.773  28.961   0.735  0.69 24.38           C
+HETATM   10  C10BR9W A 504       3.335  27.564   1.110  0.69 24.32           C
+HETATM   11  C11BR9W A 504       4.593  27.377   0.149  0.69 24.16           C
+HETATM   12  C12BR9W A 504       5.024  28.839  -0.233  0.69 23.95           C
+HETATM   13  N1 BR9W A 504       6.181  29.299  -0.801  0.69 21.74           N
+HETATM   14  N2 BR9W A 504       3.138  32.022   0.176  0.69 22.10           N
+HETATM   15  H12BR9W A 504       7.430  33.781  -0.537  0.69  0.00           H
+HETATM   16  H13BR9W A 504       6.725  34.381  -2.051  0.69  0.00           H
+HETATM   17  H22BR9W A 504       8.655  32.761  -2.258  0.69  0.00           H
+HETATM   18  H23BR9W A 504       7.208  32.393  -3.201  0.69  0.00           H
+HETATM   19  H32BR9W A 504       7.861  30.367  -2.428  0.69  0.00           H
+HETATM   20  H33BR9W A 504       8.390  30.995  -0.866  0.69  0.00           H
+HETATM   21  H62BR9W A 504       5.257  33.544  -0.054  0.69  0.00           H
+HETATM   22  H63BR9W A 504       4.778  33.312  -1.736  0.69  0.00           H
+HETATM   23  H92BR9W A 504       2.405  29.474   1.624  0.69  0.00           H
+HETATM   24  H93BR9W A 504       1.973  28.859   0.003  0.69  0.00           H
+HETATM   25 H102BR9W A 504       3.641  27.538   2.156  0.69  0.00           H
+HETATM   26 H103BR9W A 504       2.591  26.792   0.914  0.69  0.00           H
+HETATM   27 H112BR9W A 504       4.316  26.813  -0.742  0.69  0.00           H
+HETATM   28 H113BR9W A 504       5.401  26.871   0.679  0.69  0.00           H
+HETATM   29 HN21BR9W A 504       3.312  32.996  -0.028  0.69  0.00           H
+HETATM   30 HN22BR9W A 504       2.261  31.742   0.592  0.69  0.00           H
+CONECT    1    2    6   15   16
+CONECT   10    9   11   25   26
+CONECT   11   10   12   27   28
+CONECT   12    8   11   13
+CONECT    2    1    3   18   17
+CONECT    3    2    4   19   20
+CONECT    4    3    5   13
+CONECT    5    4    6    7
+CONECT    6    1    5   22   21
+CONECT    7    5    8   14
+CONECT    8    7    9   12
+CONECT    9    8   10   23   24
+CONECT   25   10
+CONECT   26   10
+CONECT   27   11
+CONECT   28   11
+CONECT   15    1
+CONECT   16    1
+CONECT   17    2
+CONECT   18    2
+CONECT   19    3
+CONECT   20    3
+CONECT   21    6
+CONECT   22    6
+CONECT   23    9
+CONECT   24    9
+CONECT   29   14
+CONECT   30   14
+CONECT   13    4   12
+CONECT   14   29    7   30
+END

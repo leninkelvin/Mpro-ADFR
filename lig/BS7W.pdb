@@ -1,0 +1,47 @@
+HETATM    1  C01BS7W A 401      15.468 -20.322   0.410  0.50 31.79           C
+HETATM    2  C02BS7W A 401      16.666 -20.541   1.320  0.50108.74           C
+HETATM    3  C03BS7W A 401      17.833 -19.767   0.650  0.50 55.52           C
+HETATM    4  C05BS7W A 401      15.953 -19.294  -0.620  0.50 36.17           C
+HETATM    5  C07BS7W A 401      18.766 -17.555   1.419  0.50 26.05           C
+HETATM    6  C08BS7W A 401      19.523 -16.817   2.270  0.50 80.97           C
+HETATM    7  C09BS7W A 401      20.282 -17.367   3.402  0.50 57.60           C
+HETATM    8  C12BS7W A 401      19.378 -19.579   2.659  0.50 92.84           C
+HETATM    9  F14BS7W A 401      19.619 -15.488   2.119  0.50 69.21           F
+HETATM   10  N06BS7W A 401      18.679 -18.952   1.588  0.50 49.44           N
+HETATM   11  N11BS7W A 401      20.154 -18.762   3.524  0.50 40.09           N
+HETATM   12  O04BS7W A 401      17.235 -18.838  -0.246  0.50 36.94           O
+HETATM   13  O10BS7W A 401      20.971 -16.740   4.190  0.50110.43           O
+HETATM   14  O13BS7W A 401      19.327 -20.787   2.840  0.50 58.26           O
+HETATM   15 H012BS7W A 401      14.622 -19.931   0.974  0.50  0.00           H
+HETATM   16 H013BS7W A 401      15.195 -21.253  -0.086  0.50  0.00           H
+HETATM   17 H022BS7W A 401      16.466 -20.145   2.316  0.50  0.00           H
+HETATM   18 H023BS7W A 401      16.903 -21.603   1.378  0.50  0.00           H
+HETATM   19  H03BS7W A 401      18.464 -20.461   0.094  0.50  0.00           H
+HETATM   20 H052BS7W A 401      16.004 -19.759  -1.604  0.50  0.00           H
+HETATM   21 H053BS7W A 401      15.261 -18.452  -0.649  0.50  0.00           H
+HETATM   22  H07BS7W A 401      18.232 -17.073   0.613  0.50  0.00           H
+HETATM   23  H11BS7W A 401      20.648 -19.214   4.279  0.50  0.00           H
+CONECT    1    2    4   15   16
+CONECT    2    1    3   17   18
+CONECT    3   19    2   10   12
+CONECT    4   20   21    1   12
+CONECT    5   22    6   10
+CONECT    6    5    7    9
+CONECT    7    6   11   13
+CONECT    8   10   11   14
+CONECT    9    6
+CONECT   15    1
+CONECT   16    1
+CONECT   17    2
+CONECT   18    2
+CONECT   19    3
+CONECT   20    4
+CONECT   21    4
+CONECT   22    5
+CONECT   23   11
+CONECT   10    3    5    8
+CONECT   11   23    7    8
+CONECT   12    3    4
+CONECT   13    7
+CONECT   14    8
+END

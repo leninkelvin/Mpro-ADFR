@@ -1,0 +1,87 @@
+HETATM    1  C10 QCP A 506       8.736  24.224   0.841  0.79 62.48           C
+HETATM    2  C13 QCP A 506       7.471  23.601  -1.217  0.79 41.96           C
+HETATM    3  C15 QCP A 506       5.895  21.799  -1.059  0.79 39.80           C
+HETATM    4  C17 QCP A 506       6.770  22.443  -3.198  0.79 39.78           C
+HETATM    5  C20 QCP A 506       8.032  29.426  -1.222  0.79 41.05           C
+HETATM    6  C21 QCP A 506       7.600  30.742  -1.199  0.79 35.10           C
+HETATM    7  C02 QCP A 506       5.803  32.484  -0.869  0.79 44.84           C
+HETATM    8  C03 QCP A 506       6.279  31.032  -0.894  0.79 37.83           C
+HETATM    9  C04 QCP A 506       5.392  30.007  -0.613  0.79 31.32           C
+HETATM   10  C05 QCP A 506       5.824  28.691  -0.636  0.79 43.85           C
+HETATM   11  C06 QCP A 506       7.143  28.402  -0.941  0.79 43.04           C
+HETATM   12  C08 QCP A 506       7.478  25.966  -0.424  0.79 51.42           C
+HETATM   13  C09 QCP A 506       8.307  24.690  -0.548  0.79 45.24           C
+HETATM   14  C11 QCP A 506       9.671  23.024   0.707  0.79 42.33           C
+HETATM   15  C12 QCP A 506       9.464  25.360   1.555  0.79 38.48           C
+HETATM   16  C14 QCP A 506       6.654  22.786  -0.452  0.79 40.30           C
+HETATM   17  C16 QCP A 506       5.954  21.628  -2.432  0.79 27.90           C
+HETATM   18  C18 QCP A 506       7.529  23.430  -2.590  0.79 31.40           C
+HETATM   19  N07 QCP A 506       7.932  27.190  -1.058  0.79 52.26           N
+HETATM   20  N22 QCP A 506       6.717  33.553  -1.228  0.79 49.50           N
+HETATM   21  O01 QCP A 506       4.689  32.736  -0.556  0.79 50.60           O
+HETATM   22  O19 QCP A 506       6.464  25.957   0.189  0.79 48.13           O
+HETATM   23  O23 QCP A 506       6.281  34.888  -1.205  0.79 50.44           O
+HETATM   24  H10 QCP A 506       7.856  23.937   1.417  0.79  0.00           H
+HETATM   25  H15 QCP A 506       5.258  21.163  -0.462  0.79  0.00           H
+HETATM   26  H17 QCP A 506       6.815  22.310  -4.269  0.79  0.00           H
+HETATM   27  H20 QCP A 506       9.061  29.199  -1.459  0.79  0.00           H
+HETATM   28  H21 QCP A 506       8.292  31.542  -1.419  0.79  0.00           H
+HETATM   29  H04 QCP A 506       4.363  30.233  -0.376  0.79  0.00           H
+HETATM   30  H05 QCP A 506       5.132  27.891  -0.416  0.79  0.00           H
+HETATM   31  H09 QCP A 506       9.192  24.890  -1.152  0.79  0.00           H
+HETATM   32  H14 QCP A 506       6.608  22.920   0.619  0.79  0.00           H
+HETATM   33  H16 QCP A 506       5.363  20.858  -2.906  0.79  0.00           H
+HETATM   34  H18 QCP A 506       8.166  24.066  -3.187  0.79  0.00           H
+HETATM   35  H07 QCP A 506       8.796  27.198  -1.580  0.79  0.00           H
+HETATM   36  H22 QCP A 506       7.667  33.337  -1.494  0.79  0.00           H
+HETATM   37 H111 QCP A 506       9.978  22.690   1.698  0.79  0.00           H
+HETATM   38 H112 QCP A 506      10.551  23.312   0.132  0.79  0.00           H
+HETATM   39 H113 QCP A 506       9.151  22.214   0.195  0.79  0.00           H
+HETATM   40 H121 QCP A 506       9.771  25.029   2.547  0.79  0.00           H
+HETATM   41 H122 QCP A 506       8.797  26.217   1.649  0.79  0.00           H
+HETATM   42 H123 QCP A 506      10.344  25.646   0.979  0.79  0.00           H
+HETATM   43  H23 QCP A 506       7.002  35.465  -1.467  0.79  0.00           H
+CONECT    7    8   20   21
+CONECT    8    6    7    9
+CONECT    9   29    8   10
+CONECT   10   30    9   11
+CONECT   11    5   10   19
+CONECT   12   13   19   22
+CONECT   13   31    1    2   12
+CONECT    1   24   13   14   15
+CONECT   14    1   37   38   39
+CONECT   15    1   40   41   42
+CONECT    2   13   16   18
+CONECT   16   32    2    3
+CONECT    3   25   16   17
+CONECT   17   33    3    4
+CONECT    4   26   17   18
+CONECT   18   34    2    4
+CONECT    5   27    6   11
+CONECT    6   28    5    8
+CONECT   29    9
+CONECT   30   10
+CONECT   35   19
+CONECT   31   13
+CONECT   24    1
+CONECT   37   14
+CONECT   38   14
+CONECT   39   14
+CONECT   40   15
+CONECT   41   15
+CONECT   42   15
+CONECT   32   16
+CONECT   25    3
+CONECT   33   17
+CONECT   26    4
+CONECT   34   18
+CONECT   27    5
+CONECT   28    6
+CONECT   36   20
+CONECT   43   23
+CONECT   19   35   11   12
+CONECT   20   36    7   23
+CONECT   21    7
+CONECT   22   12
+CONECT   23   20   43
+END

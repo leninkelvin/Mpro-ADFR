@@ -1,0 +1,169 @@
+HETATM    1  C1  FUA A 401       9.263   1.558  29.411  0.79 33.35           C
+HETATM    2  C2  FUA A 401       9.389   2.318  30.731  0.79 33.17           C
+HETATM    3  C3  FUA A 401       8.296   3.374  30.833  0.79 32.76           C
+HETATM    4  C4  FUA A 401       6.903   2.730  30.717  0.79 33.60           C
+HETATM    5  C5  FUA A 401       6.785   1.893  29.432  0.79 33.51           C
+HETATM    6  C6  FUA A 401       5.396   1.215  29.331  0.79 33.76           C
+HETATM    7  C7  FUA A 401       5.319  -0.014  28.423  0.79 34.09           C
+HETATM    8  C8  FUA A 401       6.337   0.065  27.280  0.79 33.99           C
+HETATM    9  C9  FUA A 401       7.773   0.033  27.966  0.79 33.45           C
+HETATM   10  C10 FUA A 401       7.902   0.856  29.289  0.79 33.25           C
+HETATM   11  C11 FUA A 401       8.923   0.117  26.935  0.79 33.40           C
+HETATM   12  C12 FUA A 401       8.770  -1.072  25.964  0.79 33.91           C
+HETATM   13  C13 FUA A 401       7.411  -1.048  25.259  0.79 34.74           C
+HETATM   14  C14 FUA A 401       6.271  -1.171  26.335  0.79 34.73           C
+HETATM   15  C15 FUA A 401       5.044  -1.295  25.452  0.79 35.68           C
+HETATM   16  C16 FUA A 401       5.500  -2.202  24.294  0.79 36.94           C
+HETATM   17  C17 FUA A 401       7.022  -2.104  24.256  0.79 35.73           C
+HETATM   18  C18 FUA A 401       5.849   3.832  30.701  0.79 33.71           C
+HETATM   19  C19 FUA A 401       7.794  -0.179  30.436  0.79 33.18           C
+HETATM   20  C20 FUA A 401       5.983   1.350  26.442  0.79 32.98           C
+HETATM   21  C21 FUA A 401       6.376  -2.511  27.099  0.79 35.07           C
+HETATM   22  C22 FUA A 401       7.727  -2.553  23.228  0.79 35.76           C
+HETATM   23  C23 FUA A 401       9.210  -2.593  23.187  0.79 35.81           C
+HETATM   24  C24 FUA A 401       9.766  -1.463  22.361  0.79 35.96           C
+HETATM   25  C25 FUA A 401      11.258  -1.602  22.373  0.79 36.08           C
+HETATM   26  C26 FUA A 401      12.057  -0.805  23.088  0.79 35.98           C
+HETATM   27  C27 FUA A 401      13.522  -1.062  23.038  0.79 35.99           C
+HETATM   28  C28 FUA A 401      11.543   0.332  23.920  0.79 35.99           C
+HETATM   29  C29 FUA A 401       7.062  -3.528  22.293  0.79 35.49           C
+HETATM   30  C31 FUA A 401       3.859  -3.935  24.332  0.79 40.74           C
+HETATM   31  C32 FUA A 401       3.651  -5.336  23.918  0.79 41.29           C
+HETATM   32  O1  FUA A 401       8.932   1.310  26.221  0.79 33.12           O
+HETATM   33  O2  FUA A 401       5.135  -3.564  24.540  0.79 39.09           O
+HETATM   34  O3  FUA A 401       2.924  -3.157  24.484  0.79 41.55           O
+HETATM   35  O4  FUA A 401       6.373  -3.002  21.364  0.79 35.91           O
+HETATM   36  O5  FUA A 401       7.196  -4.740  22.478  0.79 34.86           O
+HETATM   37  O6  FUA A 401       8.452   4.292  29.794  0.79 31.98           O
+HETATM   38  H12 FUA A 401       9.374   2.262  28.586  0.79  0.00           H
+HETATM   39  H13 FUA A 401      10.056   0.812  29.352  0.79  0.00           H
+HETATM   40  H22 FUA A 401       9.291   1.618  31.561  0.79  0.00           H
+HETATM   41  H23 FUA A 401      10.364   2.801  30.779  0.79  0.00           H
+HETATM   42  H3  FUA A 401       8.378   3.891  31.789  0.79  0.00           H
+HETATM   43  H4  FUA A 401       6.734   2.086  31.580  0.79  0.00           H
+HETATM   44  H5  FUA A 401       6.871   2.579  28.590  0.79  0.00           H
+HETATM   45  H62 FUA A 401       4.690   1.954  28.954  0.79  0.00           H
+HETATM   46  H63 FUA A 401       5.084   0.921  30.334  0.79  0.00           H
+HETATM   47  H72 FUA A 401       4.317  -0.079  28.000  0.79  0.00           H
+HETATM   48  H73 FUA A 401       5.516  -0.908  29.014  0.79  0.00           H
+HETATM   49  H9  FUA A 401       7.845  -0.996  28.318  0.79  0.00           H
+HETATM   50  H11 FUA A 401       9.872   0.018  27.462  0.79  0.00           H
+HETATM   51 H122 FUA A 401       9.559  -1.021  25.214  0.79  0.00           H
+HETATM   52 H123 FUA A 401       8.867  -2.004  26.522  0.79  0.00           H
+HETATM   53 H131 FUA A 401       7.306  -0.077  24.775  0.79  0.00           H
+HETATM   54 H152 FUA A 401       4.220  -1.752  25.999  0.79  0.00           H
+HETATM   55 H153 FUA A 401       4.750  -0.316  25.074  0.79  0.00           H
+HETATM   56  H16 FUA A 401       5.073  -1.858  23.351  0.79  0.00           H
+HETATM   57 H232 FUA A 401       9.529  -3.540  22.753  0.79  0.00           H
+HETATM   58 H233 FUA A 401       9.598  -2.517  24.203  0.79  0.00           H
+HETATM   59 H242 FUA A 401       9.393  -1.528  21.339  0.79  0.00           H
+HETATM   60 H243 FUA A 401       9.479  -0.507  22.800  0.79  0.00           H
+HETATM   61  H25 FUA A 401      11.707  -2.382  21.776  0.79  0.00           H
+HETATM   62 H271 FUA A 401      13.938  -0.621  22.133  0.79  0.00           H
+HETATM   63 H272 FUA A 401      13.701  -2.137  23.034  0.79  0.00           H
+HETATM   64 H273 FUA A 401      13.998  -0.617  23.912  0.79  0.00           H
+HETATM   65 H281 FUA A 401      12.380   0.843  24.395  0.79  0.00           H
+HETATM   66 H282 FUA A 401      11.004   1.033  23.283  0.79  0.00           H
+HETATM   67 H283 FUA A 401      10.871  -0.054  24.686  0.79  0.00           H
+HETATM   68  HO1 FUA A 401       9.837   1.547  26.005  0.79  0.00           H
+HETATM   69  HO6 FUA A 401       8.120   5.149  30.072  0.79  0.00           H
+HETATM   70 H321 FUA A 401       2.585  -5.520  23.780  0.79  0.00           H
+HETATM   71 H322 FUA A 401       4.038  -6.004  24.687  0.79  0.00           H
+HETATM   72 H323 FUA A 401       4.175  -5.519  22.980  0.79  0.00           H
+HETATM   73 H181 FUA A 401       4.858   3.386  30.619  0.79  0.00           H
+HETATM   74 H182 FUA A 401       6.023   4.489  29.848  0.79  0.00           H
+HETATM   75 H183 FUA A 401       5.913   4.409  31.623  0.79  0.00           H
+HETATM   76 H191 FUA A 401       7.877   0.332  31.395  0.79  0.00           H
+HETATM   77 H192 FUA A 401       6.832  -0.688  30.377  0.79  0.00           H
+HETATM   78 H193 FUA A 401       8.598  -0.909  30.343  0.79  0.00           H
+HETATM   79 H201 FUA A 401       6.395   2.230  26.935  0.79  0.00           H
+HETATM   80 H202 FUA A 401       6.408   1.260  25.443  0.79  0.00           H
+HETATM   81 H203 FUA A 401       4.900   1.449  26.369  0.79  0.00           H
+HETATM   82 H211 FUA A 401       7.245  -2.488  27.756  0.79  0.00           H
+HETATM   83 H212 FUA A 401       5.475  -2.662  27.693  0.79  0.00           H
+HETATM   84 H213 FUA A 401       6.482  -3.329  26.385  0.79  0.00           H
+CONECT    1   38    2   10   39
+CONECT   10    1    5    9   19
+CONECT   11    9   12   32   50
+CONECT   12   11   13   52   51
+CONECT   13   12   14   17   53
+CONECT   14    8   13   15   21
+CONECT   15   54   14   16   55
+CONECT   16   15   17   33   56
+CONECT   17   13   16   22
+CONECT   18    4   73   74   75
+CONECT   19   10   78   76   77
+CONECT    2   41   40    1    3
+CONECT   20    8   81   79   80
+CONECT   21   14   84   82   83
+CONECT   22   17   23   29
+CONECT   23   57   22   24   58
+CONECT   24   23   25   60   59
+CONECT   25   24   26   61
+CONECT   26   25   27   28
+CONECT   27   64   26   62   63
+CONECT   28   26   65   66   67
+CONECT   29   22   35   36
+CONECT    3   42    2    4   37
+CONECT   30   31   33   34
+CONECT   31   70   71   30   72
+CONECT    4    3    5   18   43
+CONECT    5    4    6   10   44
+CONECT    6    5    7   45   46
+CONECT    7    6    8   48   47
+CONECT    8    7    9   14   20
+CONECT    9   49    8   10   11
+CONECT   50   11
+CONECT   38    1
+CONECT   51   12
+CONECT   52   12
+CONECT   39    1
+CONECT   53   13
+CONECT   54   15
+CONECT   55   15
+CONECT   56   16
+CONECT   73   18
+CONECT   74   18
+CONECT   75   18
+CONECT   76   19
+CONECT   77   19
+CONECT   78   19
+CONECT   79   20
+CONECT   80   20
+CONECT   81   20
+CONECT   82   21
+CONECT   83   21
+CONECT   84   21
+CONECT   40    2
+CONECT   41    2
+CONECT   57   23
+CONECT   58   23
+CONECT   59   24
+CONECT   60   24
+CONECT   61   25
+CONECT   62   27
+CONECT   63   27
+CONECT   64   27
+CONECT   65   28
+CONECT   66   28
+CONECT   67   28
+CONECT   42    3
+CONECT   70   31
+CONECT   71   31
+CONECT   72   31
+CONECT   43    4
+CONECT   44    5
+CONECT   45    6
+CONECT   46    6
+CONECT   47    7
+CONECT   48    7
+CONECT   49    9
+CONECT   68   32
+CONECT   69   37
+CONECT   32   11   68
+CONECT   33   16   30
+CONECT   34   30
+CONECT   35   29
+CONECT   36   29
+CONECT   37    3   69
+END

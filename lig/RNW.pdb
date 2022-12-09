@@ -1,0 +1,71 @@
+HETATM    1  C10 RNW A 405      10.539  -4.902  25.294  0.65 35.18           C
+HETATM    2  C13 RNW A 405       9.122  -2.610  25.906  0.65 37.83           C
+HETATM    3  C17 RNW A 405       6.640  -4.213  22.025  0.65 43.52           C
+HETATM    4  C01 RNW A 405      13.601   0.253  22.888  0.65 31.28           C
+HETATM    5  C02 RNW A 405      12.984   0.451  24.113  0.65 38.27           C
+HETATM    6  C03 RNW A 405      11.770  -0.167  24.409  0.65 36.97           C
+HETATM    7  C04 RNW A 405      11.130  -1.002  23.494  0.65 37.73           C
+HETATM    8  C05 RNW A 405      11.767  -1.193  22.258  0.65 40.33           C
+HETATM    9  C06 RNW A 405      12.982  -0.576  21.961  0.65 29.33           C
+HETATM   10  C07 RNW A 405       9.731  -1.524  23.734  0.65 36.60           C
+HETATM   11  C08 RNW A 405       9.899  -2.631  24.743  0.65 40.16           C
+HETATM   12  C09 RNW A 405      10.608  -3.797  24.448  0.65 36.74           C
+HETATM   13  C11 RNW A 405       9.764  -4.867  26.444  0.65 42.05           C
+HETATM   14  C12 RNW A 405       9.055  -3.714  26.746  0.65 40.24           C
+HETATM   15  C16 RNW A 405       7.029  -2.974  22.788  0.65 36.69           C
+HETATM   16  N19 RNW A 405       6.276  -3.960  20.635  0.65 44.11           N
+HETATM   17  O15 RNW A 405       8.550  -1.408  21.347  0.65 47.47           O
+HETATM   18  O18 RNW A 405       6.720  -5.350  22.441  0.65 48.41           O
+HETATM   19  O20 RNW A 405       6.024  -4.985  19.789  0.65 40.05           O
+HETATM   20  S14 RNW A 405       8.744  -2.404  22.385  0.65 48.49           S
+HETATM   21  H10 RNW A 405      11.094  -5.796  25.051  0.65  0.00           H
+HETATM   22  H13 RNW A 405       8.564  -1.719  26.155  0.65  0.00           H
+HETATM   23  H01 RNW A 405      14.542   0.732  22.659  0.65  0.00           H
+HETATM   24  H02 RNW A 405      13.449   1.092  24.847  0.65  0.00           H
+HETATM   25  H03 RNW A 405      11.314   0.005  25.373  0.65  0.00           H
+HETATM   26  H05 RNW A 405      11.306  -1.831  21.519  0.65  0.00           H
+HETATM   27  H06 RNW A 405      13.446  -0.744  21.001  0.65  0.00           H
+HETATM   28  H07 RNW A 405       9.121  -0.732  24.168  0.65  0.00           H
+HETATM   29  H09 RNW A 405      11.215  -3.843  23.556  0.65  0.00           H
+HETATM   30  H11 RNW A 405       9.714  -5.727  27.095  0.65  0.00           H
+HETATM   31  H12 RNW A 405       8.448  -3.675  27.639  0.65  0.00           H
+HETATM   32 H162 RNW A 405       6.974  -3.189  23.855  0.65  0.00           H
+HETATM   33 H163 RNW A 405       6.326  -2.176  22.551  0.65  0.00           H
+HETATM   34  H19 RNW A 405       6.212  -3.009  20.300  0.65  0.00           H
+HETATM   35  H20 RNW A 405       6.546  -5.748  20.045  0.65  0.00           H
+CONECT    4    5    9   23
+CONECT    5    4    6   24
+CONECT    6   25    5    7
+CONECT    7    6    8   10
+CONECT    8   26    7    9
+CONECT    9   27    4    8
+CONECT   10   28   11    7   20
+CONECT   11   12    2   10
+CONECT   12   11    1   29
+CONECT    1   12   13   21
+CONECT   13   14    1   30
+CONECT   14   13    2   31
+CONECT    2   11   14   22
+CONECT   15    3   33   32   20
+CONECT    3   15   16   18
+CONECT   23    4
+CONECT   24    5
+CONECT   25    6
+CONECT   26    8
+CONECT   27    9
+CONECT   28   10
+CONECT   29   12
+CONECT   21    1
+CONECT   30   13
+CONECT   31   14
+CONECT   22    2
+CONECT   32   15
+CONECT   33   15
+CONECT   34   16
+CONECT   35   19
+CONECT   16   34    3   19
+CONECT   17   20
+CONECT   18    3
+CONECT   19   16   35
+CONECT   20   15   17   10
+END

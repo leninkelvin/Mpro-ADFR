@@ -1,0 +1,95 @@
+HETATM    1  C10 RQH A 403      30.177  -6.408   1.980  0.65 45.03           C
+ANISOU    1  C10 RQH A 403     4771   5800   6537    452    761    571       C
+HETATM    2  C15 RQH A 403      25.184  -7.174   3.971  0.65 47.71           C
+ANISOU    2  C15 RQH A 403     5455   6098   6574    278    489    164       C
+HETATM    3  C17 RQH A 403      23.302  -7.285   5.453  0.65 39.10           C
+ANISOU    3  C17 RQH A 403     4438   5015   5405    201    355     64       C
+HETATM    4  C01 RQH A 403      25.469  -2.592   3.962  0.65 52.57           C
+ANISOU    4  C01 RQH A 403     5979   6819   7178    112    281    205       C
+HETATM    5  C02 RQH A 403      26.837  -2.396   4.660  0.65 51.24           C
+ANISOU    5  C02 RQH A 403     5700   6666   7103     98    242    321       C
+HETATM    6  C03 RQH A 403      26.562  -2.016   6.112  0.65 53.54           C
+ANISOU    6  C03 RQH A 403     5999   6961   7381     35    118    316       C
+HETATM    7  C04 RQH A 403      27.527  -1.255   3.924  0.65 50.94           C
+ANISOU    7  C04 RQH A 403     5614   6648   7094     78    243    376       C
+HETATM    8  C05 RQH A 403      27.780  -3.635   4.576  0.65 50.69           C
+ANISOU    8  C05 RQH A 403     5566   6585   7108    166    326    397       C
+HETATM    9  C07 RQH A 403      27.289  -4.851   3.872  0.65 51.21           C
+ANISOU    9  C07 RQH A 403     5702   6617   7139    236    435    339       C
+HETATM   10  C09 RQH A 403      29.264  -6.438   3.026  0.65 44.59           C
+ANISOU   10  C09 RQH A 403     4757   5747   6437    386    643    498       C
+HETATM   11  C12 RQH A 403      28.932  -4.596   1.759  0.65 45.72           C
+ANISOU   11  C12 RQH A 403     4933   5923   6515    333    628    457       C
+HETATM   12  C14 RQH A 403      25.861  -6.407   4.952  0.65 50.78           C
+ANISOU   12  C14 RQH A 403     5750   6524   7020    238    405    234       C
+HETATM   13  C16 RQH A 403      23.884  -7.618   4.231  0.65 42.71           C
+ANISOU   13  C16 RQH A 403     4906   5448   5872    253    455     78       C
+HETATM   14  C18 RQH A 403      23.966  -6.540   6.397  0.65 44.27           C
+ANISOU   14  C18 RQH A 403     5017   5700   6102    169    283    123       C
+HETATM   15  C19 RQH A 403      25.246  -6.101   6.150  0.65 46.83           C
+ANISOU   15  C19 RQH A 403     5260   6039   6496    182    300    208       C
+HETATM   16  N08 RQH A 403      28.431  -5.290   2.890  0.65 48.21           N
+ANISOU   16  N08 RQH A 403     5267   6228   6824    314    563    423       N
+HETATM   17  N11 RQH A 403      29.963  -5.265   1.207  0.65 41.15           N
+ANISOU   17  N11 RQH A 403     4301   5332   6003    416    749    545       N
+HETATM   18  O06 RQH A 403      28.909  -3.622   5.009  0.65 47.65           O
+ANISOU   18  O06 RQH A 403     5080   6215   6811    164    308    507       O
+HETATM   19  O13 RQH A 403      27.127  -5.971   4.697  0.65 53.64           O
+ANISOU   19  O13 RQH A 403     6017   6904   7458    254    429    334       O
+HETATM   20 CL1  RQH A 403      21.708  -7.791   5.829  0.65 27.11          Cl
+ANISOU   20 CL1  RQH A 403     3003   3483   3813    173    318    -21      Cl
+HETATM   21  H10 RQH A 403      30.936  -7.154   1.793  0.65  0.00           H
+HETATM   22  H15 RQH A 403      25.667  -7.413   3.035  0.65  0.00           H
+HETATM   23  H07 RQH A 403      26.371  -4.637   3.326  0.65  0.00           H
+HETATM   24  H09 RQH A 403      29.197  -7.190   3.798  0.65  0.00           H
+HETATM   25  H12 RQH A 403      28.541  -3.659   1.391  0.65  0.00           H
+HETATM   26  H16 RQH A 403      23.344  -8.205   3.503  0.65  0.00           H
+HETATM   27  H18 RQH A 403      23.483  -6.300   7.332  0.65  0.00           H
+HETATM   28  H19 RQH A 403      25.770  -5.518   6.892  0.65  0.00           H
+HETATM   29 H011 RQH A 403      25.615  -2.638   2.882  0.65  0.00           H
+HETATM   30 H012 RQH A 403      24.814  -1.756   4.204  0.65  0.00           H
+HETATM   31 H013 RQH A 403      25.015  -3.522   4.306  0.65  0.00           H
+HETATM   32 H031 RQH A 403      27.470  -1.612   6.561  0.65  0.00           H
+HETATM   33 H032 RQH A 403      25.774  -1.264   6.148  0.65  0.00           H
+HETATM   34 H033 RQH A 403      26.246  -2.901   6.665  0.65  0.00           H
+HETATM   35 H041 RQH A 403      28.502  -1.069   4.374  0.65  0.00           H
+HETATM   36 H042 RQH A 403      26.916  -0.355   3.995  0.65  0.00           H
+HETATM   37 H043 RQH A 403      27.656  -1.525   2.876  0.65  0.00           H
+CONECT    4    5   30   31   29
+CONECT    5    4    6    7    8
+CONECT    6    5   34   32   33
+CONECT    7    5   37   35   36
+CONECT    8    5    9   18
+CONECT    9    8   16   19   23
+CONECT   10    1   16   24
+CONECT    1   10   17   21
+CONECT   11   16   17   25
+CONECT   12    2   15   19
+CONECT    2   12   13   22
+CONECT   13    2    3   26
+CONECT    3   13   14   20
+CONECT   14    3   15   27
+CONECT   15   12   14   28
+CONECT   20    3
+CONECT   29    4
+CONECT   30    4
+CONECT   31    4
+CONECT   32    6
+CONECT   33    6
+CONECT   34    6
+CONECT   35    7
+CONECT   36    7
+CONECT   37    7
+CONECT   23    9
+CONECT   24   10
+CONECT   21    1
+CONECT   25   11
+CONECT   22    2
+CONECT   26   13
+CONECT   27   14
+CONECT   28   15
+CONECT   16    9   10   11
+CONECT   17    1   11
+CONECT   18    8
+CONECT   19    9   12
+END
