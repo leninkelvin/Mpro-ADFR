@@ -29,3 +29,4 @@ Esto último quiere decir que aunque se generó una rejilla basado en un ligando
 
 Una guía detallada del uso de ADFR y la preparación de los archivos se puede encontrar [aquí](https://github.com/leninkelvin/ADFR-of-varying-flexibility).
 
+Nota, los archivos descomprimidos ocuparan 120 Mbs.
