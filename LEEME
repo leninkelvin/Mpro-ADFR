@@ -1,19 +1,19 @@
 Relación código de receptor - código de ligando.
 Esta lista describe que ligando se uso de referencia para el sitio de busqueda de docking en el trg. 
 
-Receptor  Ligando   Actividad antiviral
+Receptor  Ligando   Actividad antiviral     Sitio de unión
 7A1U      FUA                 -
 7AF0      R9W                 -
-7AGA      LZE (AT7519)        Si
+7AGA      LZE (AT7519)        Si            alostérico
 7AMJ      RMZ                 -
 7ANS      RNW                 -
 7AOL      RQH                 -
 7AP6      RQN (MUT056399)     Si
 7APH      RT2                 -
-7AQI      QEL (ifenprodil)    Si
+7AQI      QEL (ifenprodil)    Si            alostérico
 7AWR      S7W                 -
 7AWU      S8B                 -
 7AWW      CLU                 -
-7AXM      93J (pelitinib)     -
+7AXM      93J (pelitinib)     -             catalítico
 
 Esta lista esta basada en el material suplementario abf7945-guenther-sm.pdf
