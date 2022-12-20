@@ -20,7 +20,7 @@ Este repositorio tiene archivos originales para receptores (protease) y ligandos
 
 Los ligandos estan separados de su receptor pero en su misma posicion relativa. Es decir, se pueden usar para comparar los resultados del docking (controles positivos) o, como se hizo con los archivos trg, como referencia para reducir la busqueda del docking al sitio conocido.
 
-Todos los archivos de receptores contienen únicamente a las proteínas, todos los heteroátomos (iones, buffer, moléculas de agua, ligandos) han sido retirados. Todos los receptores son un monomero y estan alineados de manera que los resultados de cualquiere receptor pueden compararse con otros facílmente. Se incluyen PDBs y PDBQTs. Estos últimos pueden usarse con programas de docking como Autodock, Vina o gnina. 
+Todos los archivos de receptores contienen únicamente a las proteínas, todos los heteroátomos (iones, buffer, moléculas de agua, ligandos) han sido retirados. De acuerdo al artículo, todas las estructuras fueron obtenidas a pH 7.5. Todos los receptores son un monomero y estan alineados de manera que los resultados de cualquiere receptor pueden compararse con otros facílmente. Se incluyen PDBs y PDBQTs. Estos últimos pueden usarse con programas de docking como Autodock, Vina o gnina. 
 
 Para ADFR se requiere un archivo trg. Los receptores y los ligandos se utilizaron en la generación de estos archivos. Esto se describe brevemente a continuación. 
 
