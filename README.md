@@ -27,6 +27,8 @@ Para ADFR se requiere un archivo trg. Los receptores y los ligandos se utilizaro
 Se uso el agfrgui, se cargó el receptor correspondiente a cada ligando. El ligando se uso para definir una caja entorno al sitio de interacción y se le incremento el tamaño de "padding" a 8. Una vez hecho esto se calcularon las cavidades y se generaron las rejillas para todos los átomos que soporta ADFR. 
 Esto último quiere decir que aunque se generó una rejilla basado en un ligando de composición química conocida, se pueden generar rejilas que describan el sitio de unión en función de átomos que no esten presentes en el ligando. Esto permite usar estas rejillas para tamizaje con moléculas no representadas por los átomos de los ligandos de referencia.
 
+3 de los 14 ligandos incluidos aquí mostraron actividades antivirales.
+
 Una guía detallada del uso de ADFR y la preparación de los archivos se puede encontrar [aquí](https://github.com/leninkelvin/ADFR-of-varying-flexibility).
 
 Nota, los archivos descomprimidos ocuparan 120 Mbs.
