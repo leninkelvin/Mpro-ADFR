@@ -1,10 +1,7 @@
 .
 ├── ARBOL_DE_ARCHIVOS
-├── Mpro-dp.py
-├── Mpro-dp.pyc
-├── Mpro-nc.py
-├── Mpro-survey.py
-├── lig
+├── Mpro-nc.py		# Esta es una sesion que se puede abrir en UCSF Chimera que muestra los receptores y sus ligandos. 
+├── lig				# Este folder contiene los ligandos en el primer nivel estan los ligandos con hidrógenos.
 │   ├── 93J.pdb
 │   ├── ALZE.pdb
 │   ├── BQEL.pdb
@@ -19,7 +16,7 @@
 │   ├── RNW.pdb
 │   ├── RQH.pdb
 │   ├── RT2.pdb
-│   ├── original
+│   ├── original	# Los ligandos extraidos de los PDBs sin modificaciones.
 │   │   ├── 7A1U.pdb
 │   │   ├── 7AF0.pdb
 │   │   ├── 7AGA.pdb
@@ -34,22 +31,7 @@
 │   │   ├── 7AWW.pdb
 │   │   ├── 7AXM.pdb
 │   │   ├── 7AXO.pdb
-│   │   └── pdbqt
-│   │       ├── 7A1U.pdbqt
-│   │       ├── 7AF0.pdbqt
-│   │       ├── 7AGA.pdbqt
-│   │       ├── 7AMJ.pdbqt
-│   │       ├── 7ANS.pdbqt
-│   │       ├── 7AOL.pdbqt
-│   │       ├── 7AP6.pdbqt
-│   │       ├── 7APH.pdbqt
-│   │       ├── 7AQI.pdbqt
-│   │       ├── 7AWR.pdbqt
-│   │       ├── 7AWU.pdbqt
-│   │       ├── 7AWW.pdbqt
-│   │       ├── 7AXM.pdbqt
-│   │       └── 7AXO.pdbqt
-│   └── pdbqt
+│   └── pdbqt	# Los ligandos con hidrógenos pero convertidos a formato PDBQT, listos para docking.
 │       ├── 93J.pdbqt
 │       ├── ALZE.pdbqt
 │       ├── BQEL.pdbqt
@@ -64,7 +46,7 @@
 │       ├── RNW.pdbqt
 │       ├── RQH.pdbqt
 │       └── RT2.pdbqt
-└── rec
+└── rec			# Los receptores originales sin heteroátomos u otras modificaciones.
     ├── 7A1U.pdb
     ├── 7AF0.pdb
     ├── 7AGA.pdb
@@ -79,7 +61,7 @@
     ├── 7AWW.pdb
     ├── 7AXM.pdb
     ├── 7AXO.pdb
-    ├── pdbqt
+    ├── pdbqt	# Los receptores sin heteroátomos en formato PDBQT. Podrían ser usados con VINA o Autodock.
     │   ├── 7A1U.pdbqt
     │   ├── 7AF0.pdbqt
     │   ├── 7AGA.pdbqt
@@ -109,5 +91,3 @@
         ├── 7AWWr.trg
         ├── 7AXMr.trg
         └── 7AXOr.trg
-
-7 directories, 103 files
